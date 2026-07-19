@@ -1,0 +1,1 @@
+Scan the project for user-facing strings and produce localized variants for the requested locale. Skip identifiers, log messages, and code. Output a per-file diff of the proposed translations for review.

@@ -1,6 +1,12 @@
 {
   "name": "translation",
+  "owner": {
+    "name": "marksweissma"
+  },
   "plugins": [
-    { "name": "translator", "source": "./plugins/translator" }
+    {
+      "name": "localization",
+      "source": "./plugins/localization"
+    }
   ]
 }
