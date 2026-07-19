@@ -1,0 +1,6 @@
+{
+  "name": "translation",
+  "plugins": [
+    { "name": "translator", "source": "./plugins/translator" }
+  ]
+}
