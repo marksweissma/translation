@@ -1,3 +1,4 @@
 {
-  "name": "localization"
+  "name": "localization",
+  "description": "Translation and localization tools — translate files, detect languages, review translations"
 }
