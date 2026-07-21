@@ -1,4 +1,5 @@
 {
   "name": "localization",
+  "version": "0.1.0",
   "description": "Translation and localization tools — translate files, detect languages, review translations"
 }

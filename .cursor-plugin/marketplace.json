@@ -1,0 +1,10 @@
+{
+  "name": "translation",
+  "plugins": [
+    {
+      "name": "localization",
+      "source": "plugins/localization",
+      "description": "Translation and localization tools — translate files, detect languages, review translations"
+    }
+  ]
+}
