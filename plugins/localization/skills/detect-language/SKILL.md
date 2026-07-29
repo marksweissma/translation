@@ -6,3 +6,5 @@ name: detect-language
 Given a piece of text, identify its source language before any translation step. Return the ISO 639-1 code (e.g. `en`, `es`, `ja`) plus a confidence score in [0,1]. When the text is too short or mixed-language, say so explicitly rather than guessing. For mixed-language text, report the dominant language plus the mixture. Never translate here — detection only.
 
 <!-- W2 exit-criterion-1 live-QA: verifying agent edits land as Verified GitHub commits. -->
+
+<!-- W2 exit-criterion-1 RE-VERIFICATION post-fix: confirming the Co-authored-by trailer now lands. -->
