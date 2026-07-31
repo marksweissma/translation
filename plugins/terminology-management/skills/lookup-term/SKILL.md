@@ -1,1 +1,6 @@
-@/private/tmp/claude-501/-Users-markweiss-moxn--claude-worktrees-marketplaces-v2/7641463f-9d5d-4408-99de-2c6a1b46b1e3/scratchpad/terminology-management/SKILL.md
+---
+description: Look up the approved translation for a term in the shared glossary, returning the target-language equivalent and any usage notes
+name: lookup-term
+---
+
+Given a source term and a target language, search the shared glossary for an approved translation. Return the target-language equivalent, its part of speech, and any usage notes (formality, regional variant, do-not-translate flags). If no entry exists, say so explicitly rather than guessing — do not invent a translation for an unlisted term.
