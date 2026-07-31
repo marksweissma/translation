@@ -1,13 +1,1 @@
-{
-  "name": "translation",
-  "owner": {
-    "name": "marksweissma"
-  },
-  "plugins": [
-    {
-      "name": "localization",
-      "source": "./plugins/localization",
-      "description": "Translation and localization tools — translate files, detect languages, review translations"
-    }
-  ]
-}
+@/private/tmp/claude-501/-Users-markweiss-moxn--claude-worktrees-marketplaces-v2/7641463f-9d5d-4408-99de-2c6a1b46b1e3/scratchpad/terminology-management/root-claude-marketplace.json
